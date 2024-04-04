@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+pre {
+  max-height: 500px;
+  overflow-y: auto;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
